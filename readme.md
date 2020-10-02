@@ -1,5 +1,6 @@
 
-# Ark
+# ARK- A STATIC WEBSITE GENERATOR
+---------------------------------------------------------------------------------
 
 Ark is a static website generator written in Python. It transforms a
 directory of text files into a self-contained website that can be viewed
@@ -14,7 +15,7 @@ locally or served remotely.
   distributing project documentation in html format), but it can easily
   produce sites with resource or directory-style urls.
 
-See Ark's [documentation][] or the Ark [sample site][] for further details.
+See Ark's [documentation][] Or The Ark [sample site][] For Further Details.
 
 [Markdown]: http://daringfireball.net/projects/markdown/
 [Syntex]: https://github.com/dmulholland/syntex
@@ -23,9 +24,10 @@ See Ark's [documentation][] or the Ark [sample site][] for further details.
 
 
 
-## Installation
+## INSTALLATION
+----------------------------------------------------------------
 
-Install directly from the Python Package Index using `pip`:
+Install Directly From The Python Package Index Using `pip`:
 
     $ pip install ark
 
@@ -33,6 +35,7 @@ Ark requires Python 3.2 or later.
 
 
 
-## License
+## LICENSE
+-----------------------------------------------------------------
 
-This work has been placed in the public domain.
+This Work Has Been Placed In The Public Domain.
